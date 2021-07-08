@@ -11,8 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
-        <p className="description">
+        <p className="description" background-image="/xbeauty-logo.svg">
           <img src="/xbeauty-logo.svg" alt="Netlify Logo" width="604" height="118" />
+        </p>
+        <p className="description" background-image="/xbeauty-logo.svg">
+          Coming soon...
         </p>
       </main>
     </div>
